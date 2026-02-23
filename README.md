@@ -1,5 +1,5 @@
-# Fique a vontade para dar uma olhada nas resoluções dos exercícios
-Repositório focado para o curso de Poo do Gustavo Guanabara, totalmente voltado para estudos.
+# Repositório focado para o curso de Poo do Gustavo Guanabara, totalmente voltado para estudos
+Fique a vontade para dar uma olhada nas resoluções dos exercícios.
 
 
 # Aulas
